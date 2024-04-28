@@ -5,7 +5,7 @@ This work is inspired from the papers :
 2. Active learning for human protein-protein interaction prediction.
 
 Objective:
-The detailed information is on document named Progress Report.
+Four Active Learning Methods namely, Mutual Information, Margin Sampling, Margin Sampling Positive and Density-Based Sampling was compared with Random Sampling to improve the model trained with Random Forest to improve predictions for protein-protein interactions and non-interactions. 
 
 Citations: 
 1. Mohamed, T. P., Carbonell, J. G., & Ganapathiraju, M. K. (2010). Active learning for human protein-protein interaction prediction. BMC bioinformatics, 11, 1-9.
