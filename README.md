@@ -8,7 +8,7 @@ Objective:
 The detailed information is on document named Progress Report.
 
 Citations: 
-Mohamed, T. P., Carbonell, J. G., & Ganapathiraju, M. K. (2010). Active learning for human protein-protein interaction prediction. BMC bioinformatics, 11, 1-9.
-Zhao, N., Zhuo, M., Tian, K., & Gong, X. (2022). Protein–protein interaction and non-interaction predictions using gene sequence natural vector. Communications Biology, 5(1), 652.
+1. Mohamed, T. P., Carbonell, J. G., & Ganapathiraju, M. K. (2010). Active learning for human protein-protein interaction prediction. BMC bioinformatics, 11, 1-9.
+2. Zhao, N., Zhuo, M., Tian, K., & Gong, X. (2022). Protein–protein interaction and non-interaction predictions using gene sequence natural vector. Communications Biology, 5(1), 652.
 
 
